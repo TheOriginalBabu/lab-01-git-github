@@ -5,16 +5,17 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Izaan Syed
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+how to set up HTTPS cloning via github CLI, (already know how to use SSH creds)
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git clone - used to clone new repos 
+
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: https://github.com/TheOriginalBabu/lab-01-git-github/pull/2
